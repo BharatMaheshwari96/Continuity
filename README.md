@@ -1,0 +1,2 @@
+# Continuity
+Continuity, in mathematics, rigorous formulation of the intuitive concept of a function that varies with no abrupt breaks or jumps. A function is a relationship in which every value of an independent variable—say x—is associated with a value of a dependent variable—say y. Continuity of a function is sometimes expressed by saying that if the x-values are close together, then the y-values of the function will also be close.
